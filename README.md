@@ -1,0 +1,2 @@
+# Freecash
+app install 
